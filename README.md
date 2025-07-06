@@ -6,7 +6,7 @@
 
 <p align="center">
     <span>Checkout my portfolio here 👉</span>
-  <a href="https://www.hasinasyl20.vercel.app" target="_blank">
+  <a href="https://hasinasyl20.vercel.app" target="_blank">
     https://www.hasinasyl20.vercel.app
   </a>
 </p>
