@@ -2,7 +2,7 @@
   <img src="imageBackground.png" alt="Illustration développeur" />
 </div>
 
-<p align="center"><b style="font-size:4em;color:#FFFFFF">Hello world !</b></p>
+<h1 align="center"><b style="font-size:4em;color:#FFFFFF">Hello world !</b></h1>
 
 <p align="center">
     <span>Checkout my portfolio here 👉</span>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
-<p align="center" style="color:#ff0066;"><b style="font-size:2.5em">My skills</b></p>
+<h3 align="center" style="color:#ff0066;"><b style="font-size:2.5em">My skills</b></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
