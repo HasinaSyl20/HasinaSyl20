@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
-<h3 align="center" style="color:#ff0066;"><b style="font-size:2.5em">My skills</b></h3>
+<h1 align="center" style="color:#ff0066;"><b>My skills</b></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
