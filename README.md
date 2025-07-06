@@ -1,8 +1,9 @@
 <div align="center">
   <img src="imageBackground.png" alt="Illustration développeur" />
 </div>
-
-<h1 align="center"><b style="font-size:4em;color:#FFFFFF">Hello world !</b></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+👋;+It's+a+pleasure+to+meet+you;" />
+</h1>
 
 <p align="center">
     <span>Checkout my portfolio here 👉</span>
