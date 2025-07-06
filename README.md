@@ -2,7 +2,7 @@
   <img src="imageBackground.png" alt="Illustration développeur" />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+👋;+It's+a+pleasure+to+meet+you;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&olor=2563EA&size=35&center=true&vCenter=true&pause=500&width=500&height=70&duration=4000&lines=Hello+!+👋;+It's+a+pleasure+to+meet+you;" />
 </h1>
 
 <p align="center">
