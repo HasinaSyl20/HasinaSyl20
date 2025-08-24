@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imageBackground.png" alt="Illustration développeur" />
+  <img src="developer.gif" alt="Illustration développeur" />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=2563EA&size=37&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+👋;+It's+a+pleasure+to+meet+you;" />
